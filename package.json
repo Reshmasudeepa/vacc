@@ -1,0 +1,33 @@
+{
+  "name": "vaccination-booking-system",
+  "version": "1.0.0",
+  "description": "A comprehensive vaccination booking system built with MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "install-server": "cd backend && npm install",
+    "install-client": "cd frontend && npm install",
+    "install-all": "npm run install-server && npm run install-client"
+  },
+  "keywords": [
+    "vaccination",
+    "booking",
+    "mern",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Vaccination Booking System",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "i18next": "^25.5.2",
+    "nodemailer": "^7.0.6",
+    "react-i18next": "^15.7.3"
+  }
+}

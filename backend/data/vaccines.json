@@ -1,0 +1,340 @@
+[
+  {
+    "name": "BCG",
+    "description": "Protects against severe TB.",
+    "dosage": "Single dose at birth",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Maternity Hospital",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "infant"
+    ],
+    "isActive": false,
+    "id": "1757163101905",
+    "createdAt": "2025-09-06T12:51:41.905Z",
+    "updatedAt": "2025-09-07T05:30:19.902Z"
+  },
+  {
+    "name": "Hepatitis B",
+    "description": "Prevents liver infection.",
+    "dosage": "3 doses: birth, 1 month, 6 months",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "General Health Clinic",
+    "availableSlots": 30,
+    "price": 0,
+    "ageGroups": [
+      "infant",
+      "child",
+      "adolescent",
+      "adult",
+      "senior"
+    ],
+    "isActive": true,
+    "id": "1757163101906",
+    "createdAt": "2025-09-06T12:51:41.906Z"
+  },
+  {
+    "name": "Polio (OPV/IPV)",
+    "description": "Prevents paralysis-causing virus.",
+    "dosage": "4 doses: 2, 4, 6-18 months, 4-6 years",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Pediatric Health Center",
+    "availableSlots": 25,
+    "price": 0,
+    "ageGroups": [
+      "infant",
+      "child",
+      "adolescent",
+      "adult"
+    ],
+    "isActive": true,
+    "id": "1757163101907",
+    "createdAt": "2025-09-06T12:51:41.907Z"
+  },
+  {
+    "name": "DTP (Diphtheria, Tetanus, Pertussis)",
+    "description": "Combined protection.",
+    "dosage": "3 doses + booster",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Pediatric Health Center",
+    "availableSlots": 25,
+    "price": 0,
+    "ageGroups": [
+      "infant",
+      "child",
+      "adolescent",
+      "adult"
+    ],
+    "isActive": true,
+    "id": "1757163101907",
+    "createdAt": "2025-09-06T12:51:41.907Z"
+  },
+  {
+    "name": "Hib",
+    "description": "Prevents meningitis, pneumonia.",
+    "dosage": "3-4 doses: 2, 4, 6, 12-15 months",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Pediatric Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "infant",
+      "child"
+    ],
+    "isActive": true,
+    "id": "1757163101908",
+    "createdAt": "2025-09-06T12:51:41.908Z"
+  },
+  {
+    "name": "Rotavirus",
+    "description": "Protects from severe diarrhea.",
+    "dosage": "2-3 doses: 2, 4, (6) months",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Pediatric Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "infant"
+    ],
+    "isActive": true,
+    "id": "1757163101909",
+    "createdAt": "2025-09-06T12:51:41.909Z"
+  },
+  {
+    "name": "PCV",
+    "description": "Protects from pneumonia & meningitis.",
+    "dosage": "4 doses: 2, 4, 6, 12-15 months",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Pediatric Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "infant",
+      "child",
+      "senior"
+    ],
+    "isActive": true,
+    "id": "1757163101909",
+    "createdAt": "2025-09-06T12:51:41.909Z"
+  },
+  {
+    "name": "MMR",
+    "description": "Measles, mumps, rubella (at 9 months, 2nd dose at 1-5 years).",
+    "dosage": "2 doses: 9-12 months, 15-18 months",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Pediatric Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "infant",
+      "child",
+      "adolescent",
+      "adult"
+    ],
+    "isActive": true,
+    "id": "1757163101910",
+    "createdAt": "2025-09-06T12:51:41.910Z"
+  },
+  {
+    "name": "Hepatitis A",
+    "description": "Prevents hepatitis A infection.",
+    "dosage": "2 doses: 12-23 months, 6-18 months after first",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Pediatric Health Center",
+    "availableSlots": 15,
+    "price": 0,
+    "ageGroups": [
+      "child_1_5"
+    ],
+    "isActive": true,
+    "id": "1757163101911",
+    "createdAt": "2025-09-06T12:51:41.911Z"
+  },
+  {
+    "name": "Meningococcal",
+    "description": "Prevents meningococcal disease.",
+    "dosage": "1 dose at 2 years",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "General Health Clinic",
+    "availableSlots": 10,
+    "price": 0,
+    "ageGroups": [
+      "child_1_5"
+    ],
+    "isActive": true,
+    "id": "1757163101912",
+    "createdAt": "2025-09-06T12:51:41.912Z"
+  },
+  {
+    "name": "Japanese Encephalitis",
+    "description": "Prevents Japanese Encephalitis.",
+    "dosage": "2 doses: 9 months and 16-24 months",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Pediatric Health Center",
+    "availableSlots": 12,
+    "price": 0,
+    "ageGroups": [
+      "child_5_10"
+    ],
+    "isActive": true,
+    "id": "1757163101912",
+    "createdAt": "2025-09-06T12:51:41.912Z"
+  },
+  {
+    "name": "Cholera",
+    "description": "Prevents cholera infection.",
+    "dosage": "2 doses: 2 years and above",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "General Health Clinic",
+    "availableSlots": 8,
+    "price": 0,
+    "ageGroups": [
+      "child_5_10"
+    ],
+    "isActive": true,
+    "id": "1757163101914",
+    "createdAt": "2025-09-06T12:51:41.914Z"
+  },
+  {
+    "name": "Tdap booster",
+    "description": "Tetanus, diphtheria, whooping cough.",
+    "dosage": "Single dose at 11-12 years",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Adolescent Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "adolescent",
+      "adult"
+    ],
+    "isActive": true,
+    "id": "1757163101915",
+    "createdAt": "2025-09-06T12:51:41.915Z"
+  },
+  {
+    "name": "HPV (Human Papillomavirus)",
+    "description": "Prevents cervical & other cancers.",
+    "dosage": "2-3 doses: 9-14 years, 15-26 years",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Adolescent Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "adolescent",
+      "adult"
+    ],
+    "isActive": true,
+    "id": "1757163101916",
+    "createdAt": "2025-09-06T12:51:41.916Z"
+  },
+  {
+    "name": "Influenza (Flu, yearly)",
+    "description": "Prevents seasonal flu.",
+    "dosage": "1 dose annually",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Community Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "adult",
+      "senior"
+    ],
+    "isActive": true,
+    "id": "1757163101917",
+    "createdAt": "2025-09-06T12:51:41.917Z"
+  },
+  {
+    "name": "Td/Tdap booster",
+    "description": "Tetanus & diphtheria protection (every 10 yrs).",
+    "dosage": "Booster every 10 years",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "General Health Clinic",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "adult",
+      "senior"
+    ],
+    "isActive": true,
+    "id": "1757163101918",
+    "createdAt": "2025-09-06T12:51:41.918Z"
+  },
+  {
+    "name": "Pneumococcal (PCV / PPSV23)",
+    "description": "Pneumonia & meningitis prevention.",
+    "dosage": "1-2 doses after age 50",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Senior Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "senior"
+    ],
+    "isActive": true,
+    "id": "1757163101919",
+    "createdAt": "2025-09-06T12:51:41.919Z"
+  },
+  {
+    "name": "Shingles (Herpes Zoster)",
+    "description": "Prevents painful nerve infection.",
+    "dosage": "2 doses after age 50",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Senior Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "senior"
+    ],
+    "isActive": true,
+    "id": "1757163101921",
+    "createdAt": "2025-09-06T12:51:41.921Z"
+  },
+  {
+    "name": "COVID-19 booster",
+    "description": "As per latest guidelines.",
+    "dosage": "As per latest guidelines",
+    "availability": "2024-02-01T00:00:00.000Z",
+    "location": "Community Health Center",
+    "availableSlots": 20,
+    "price": 0,
+    "ageGroups": [
+      "adult",
+      "senior"
+    ],
+    "isActive": false,
+    "id": "1757163101922",
+    "createdAt": "2025-09-06T12:51:41.922Z",
+    "updatedAt": "2025-09-07T05:30:21.650Z"
+  },
+  {
+    "name": "demo",
+    "description": "demo",
+    "dosage": "11",
+    "availability": "2025-09-08",
+    "location": "Mylavaram ",
+    "availableSlots": 10,
+    "price": "100",
+    "ageGroups": [
+      "all"
+    ],
+    "isActive": true,
+    "id": "1757223820905",
+    "createdAt": "2025-09-07T05:43:40.905Z"
+  },
+  {
+    "name": "testing",
+    "description": "testing purpose",
+    "dosage": "10",
+    "availability": "2025-09-26",
+    "location": "Hyderabad ",
+    "availableSlots": 10,
+    "price": "150",
+    "ageGroups": [
+      "all"
+    ],
+    "isActive": true,
+    "id": "1757225301608",
+    "createdAt": "2025-09-07T06:08:21.608Z"
+  }
+]
