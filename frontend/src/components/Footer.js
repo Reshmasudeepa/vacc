@@ -35,7 +35,7 @@ const Footer = () => {
         <hr className="my-4" />
         <Row>
           <Col className="text-center">
-            <p>&copy; 2025 Vaccination Booking System. All rights reserved.</p>
+            <p>&copy; 2025 Vaccination Booking System. All rights reserved...</p>
           </Col>
         </Row>
       </Container>
